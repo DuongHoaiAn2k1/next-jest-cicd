@@ -13,5 +13,6 @@ export default function Page({ params }: Params) {
   <h1>Slug: {params.slug}</h1>
   <p>HoleText</p>
   <p>Welcome to HCM</p>
+  <p>My name is An</p>
   </>
 }
